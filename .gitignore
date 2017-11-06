@@ -1,0 +1,4 @@
+lib/
+appengine-gcs-client
+
+*.pyc
